@@ -1,0 +1,30 @@
+{
+  "name": "Leaflet.Control.NextButtons",
+  "version": "0.1.0",
+  "description": "Show 'next' buttons for markers off the viewable area of the map",
+  "main": "src/L.Control.NextButtons.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/connor/Leaflet.Control.NextButtons.git"
+  },
+  "keywords": [
+    "leaflet",
+    "next button",
+    "next",
+    "nearest"
+  ],
+  "author": "Chris Danford and Connor Montgomery",
+  "contributors": [
+    "Connor Montgomery (https://github.com/connor)",
+    "Chris Danford (https://github.com/chrisdanford)",
+  ],
+  "bugs": {
+    "url": "https://github.com/connor/Leaflet.Control.NextButtons/issues"
+  },
+  "dependencies": {
+    "leaflet": "~0.7.0"
+  }
+}

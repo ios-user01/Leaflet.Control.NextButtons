@@ -1,0 +1,35 @@
+.leaflet-control-nextButtons-button {
+    position: fixed;
+}
+
+.leaflet-control-nextButtons-button.disabled {
+    display: none;
+}
+
+.leaflet-control-nextButtons-button-north {
+    top: 10px;
+}
+
+.leaflet-control-nextButtons-button-south {
+    bottom: 10px;
+}
+
+.leaflet-control-nextButtons-button-north,
+.leaflet-control-nextButtons-button-south {
+    left: 50%;
+    margin-left: -10px;
+}
+
+.leaflet-control-nextButtons-button-east {
+    right: 10px;
+}
+
+.leaflet-control-nextButtons-button-west {
+    left: 10px;
+}
+
+.leaflet-control-nextButtons-button-east,
+.leaflet-control-nextButtons-button-west {
+    top: 50%;
+    margin-top: -10px;
+}
