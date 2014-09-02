@@ -1,8 +1,8 @@
 # L.Control.NextButtons
 
-`L.Control.NextButtons` is a [Leaflet](leafletjs.com/) plugin that shows "next" buttons when markers are on that side, beyond the bounds of the given map.
+`L.Control.NextButtons` is a [Leaflet](http://leafletjs.com/) plugin that shows "next" buttons when markers are on that side, beyond the bounds of the given map.
 
-This is a dumbed down approach to what we use at Pinterest for [place pins](blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us). This assumes no external libraries other than Leaflet exist. So, **we're not using any libraries that abstract cross-browser behavior**. If that's a problem, file an [issue](https://github.com/connor/Leaflet.Control.NextButtons/issues). This should be solid in IE9 and up.
+This is a dumbed down approach to what we use at Pinterest for [place pins](http://blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us). This assumes no external libraries other than Leaflet exist. So, **we're not using any libraries that abstract cross-browser behavior**. If that's a problem, file an [issue](https://github.com/pinterest/Leaflet.Control.NextButtons/issues). This should be solid in IE9 and up.
 
 ## Instructions
 
